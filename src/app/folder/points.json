@@ -1,0 +1,141 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Marco Zero",
+        "cat": "mustsee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.871112406253815,
+          -8.063165383068121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Malakoff Tower",
+        "cat": "mustsee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.87082004547119,
+          -8.060759318240265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Cais do Sertão Museum",
+        "cat": "mustsee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.87032651901245,
+          -8.061216099860022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Kahal-Zur-Israel Sinagoge",
+        "cat": "mustsee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.87139403820038,
+          -8.06174192922556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title":  "Restroom",
+        "cat": "restroom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.871858060359955,
+          -8.061085970265072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Tourist Info.",
+        "cat": "tinfo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.87170718610287,
+          -8.06116696930358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "cat": "restaurant",
+        "title": "Sansa Salads"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.87226441502571,
+          -8.062963550365389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Seu Boteco Restaurant",
+        "cat": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.87130284309387,
+          -8.063773536260797
+        ]
+      }
+    }
+  ]
+}

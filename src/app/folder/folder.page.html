@@ -15,7 +15,25 @@
   </ion-header>
 
   <div id="container">
-    <strong class="capitalize">{{ folder }}</strong>
-    <p>Explore <a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/components">UI Components</a></p>
+
+    <google-map
+    #map
+    height="700px"
+    width="500px"
+    [center]="center"
+    [options]="options"
+    >
+    <map-marker
+    *ngFor="let marker of markers"
+    [position]="marker.position"
+    [label]="marker.label"
+    [title]="marker.title"
+    [options]="marker.options"
+  >
+  </map-marker>
+    </google-map>
+
+
+
   </div>
 </ion-content>
